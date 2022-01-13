@@ -1,0 +1,14 @@
+{
+  "name": "halsamac/328/hello",
+  "description": "My first MVC F3 project ",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Hahjir Al-samach",
+      "email": "al-samach.hahjir@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
